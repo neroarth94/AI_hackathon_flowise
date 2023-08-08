@@ -1,0 +1,37 @@
+[
+    {
+        "type": "instrument-connection",
+        "ApplicationID": "",
+        "Address": "",
+        "ModelNumber": "",
+        "PropertyID": "",
+        "value": ""
+    },
+    {
+        "type": "if-else",
+        "condition": 
+        [
+            {
+            
+            }
+        ],
+        "if-branch":
+        [
+            { }
+        ],
+        "else-branch":
+        [
+            { }
+        ]
+    },
+    {
+        "type":"repeat",
+        "condition": 
+        [
+            {
+            
+            }
+        ],
+        "execution":[]
+    }
+]
